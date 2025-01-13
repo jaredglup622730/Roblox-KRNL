@@ -95,6 +95,5 @@
 
 ## 📞 Support and Updates  
 
-- **Website**: [KRNL Official](https://krnl.ca)  
 - **Community Forum**: Connect with other users for tips and troubleshooting.  
 
